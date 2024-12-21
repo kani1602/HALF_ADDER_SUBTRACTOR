@@ -1,6 +1,6 @@
 # EXP3: HALF ADDER AND SUBTRACTOR
 
-Implementation-of-Half-Adder-and-Half Subtractor-circuit
+# Developed by:kanishka.v   RegisterNumber:24003362
 
 # AIM:
 
@@ -68,7 +68,6 @@ Figure -02 HALF Subtractor
 
 /* Program to design a half adder and full adder circuit and verify its truth table in quartus using Verilog programming.
 
-Developed by:kanishka.v   RegisterNumber:24003362
 
 # **RTL Schematic:**
 
